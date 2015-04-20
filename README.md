@@ -6,3 +6,5 @@ Home work - 3 hrs - Most of the time spent on understanding how registers work a
 everything works together. 
 Homework 1 - 2 hrs 
 Homework 2 - 20 mins
+
+ALl solutions for Quizzes are provided inline comments....

@@ -2,7 +2,7 @@
 
 Hours spent - 
 
-Home work - 3 hrs - Most of the time spent on understanding how registers work and flashing the board with HW1 code to see how
+Home work - 3 hrs - Most of the time spent on understanding LPC1768 architecture and flashing the board with HW1 code to see how
 everything works together. 
 Homework 1 - 2 hrs 
 Homework 2 - 20 mins

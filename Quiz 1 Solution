@@ -7,9 +7,7 @@ Q1: Is there any compile error with the following code (if any)?
  
 Explain:
 
-There will be a compiler error on this line 3[Arr] = 7; since the correct syntax is supposed to be Arr[3] = 7. 
-Here Arr is the name of the array and [3] is the size.
-
+There will be no compiler error....The compiler while dereferncing will treat both 3[Arr] and Arr[3] the same way.
 
 --------------------------------------------------------------------
 Q2: What is the difference between the following 3 statements? 
@@ -40,7 +38,7 @@ Case 1 - px is a pointer to a constant integer, which means that interger can't 
 
 Case 2 - case 3 - px is a constant pointer to a integer, which means that the integer can be modified but the pointer can't be modified. 
 
-case 3 - px is a constant pointer to a integer, which means that the integer can be modified but the pointer can't be modified. 
+case 3 - There will be a compiler error on this. 
 
 
 
